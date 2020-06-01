@@ -1,6 +1,2 @@
-#ignore ohter 
-*.classpath
-*.mymetadata
-*.project
-/.myeclipse/
-/.settings/
+!src/
+!WebRoot/
